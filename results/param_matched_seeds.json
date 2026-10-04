@@ -1,0 +1,52 @@
+[
+  {
+    "model": "cnn1d_pm",
+    "seed": 0,
+    "accuracy": 0.871578947368421
+  },
+  {
+    "model": "cnn1d_pm",
+    "seed": 1,
+    "accuracy": 0.9473684210526315
+  },
+  {
+    "model": "cnn1d_pm",
+    "seed": 2,
+    "accuracy": 0.8126315789473684
+  },
+  {
+    "model": "cnn1d_pm",
+    "seed": 3,
+    "accuracy": 0.8315789473684211
+  },
+  {
+    "model": "cnn1d_pm",
+    "seed": 4,
+    "accuracy": 0.5547368421052632
+  },
+  {
+    "model": "cnn2d_pm",
+    "seed": 0,
+    "accuracy": 0.8168421052631579
+  },
+  {
+    "model": "cnn2d_pm",
+    "seed": 1,
+    "accuracy": 0.8084210526315789
+  },
+  {
+    "model": "cnn2d_pm",
+    "seed": 2,
+    "accuracy": 0.8084210526315789
+  },
+  {
+    "model": "cnn2d_pm",
+    "seed": 3,
+    "accuracy": 0.8157894736842105
+  },
+  {
+    "model": "cnn2d_pm",
+    "seed": 4,
+    "accuracy": 0.7936842105263158
+  }
+]

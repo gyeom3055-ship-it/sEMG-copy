@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.log
+results_quick/
+
+# 용량이 큰 중간 산출물 (main.py 실행으로 다시 생성됨; DenseNet161 가중치는 100MB를 넘어 GitHub에 올릴 수 없음)
+results*/*.pt
+results*/*.npy
+
+# 강의자료 (재배포 금지)
+Step1_*.pdf

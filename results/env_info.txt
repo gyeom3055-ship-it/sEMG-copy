@@ -1,0 +1,10 @@
+python 3.12.10 on Windows-11-10.0.26200-SP0
+numpy 2.5.2
+scipy 1.18.1
+scikit-learn 1.9.1
+matplotlib 3.11.2
+PyWavelets 1.10.0
+torch 2.11.0+cu128
+torchvision 0.26.0+cu128
+device cuda (NVIDIA GeForce RTX 5060)
+seed 42, epochs 45, batch 16, lr 0.001, window 300, hop 150, cwt scales 32

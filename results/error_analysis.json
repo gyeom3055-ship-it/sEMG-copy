@@ -1,0 +1,8 @@
+{
+  "max_error_pair": {
+    "true": "B",
+    "pred": "E",
+    "count": 22
+  },
+  "misclassified_trials": []
+}
